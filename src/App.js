@@ -68,10 +68,12 @@ export default function App() {
         </p>
       </div>
       <div>
-        <h2>Computer Choice</h2>
-        <img src={computerImage} alt="computer choice" />
+        <h2>Computer's Choice</h2>
+        <img src={computerImage} alt="computer's choice" />
         {/* <ComputerSection /> */}
       </div>
     </div>
   );
 }
+
+<div className=""></div>;
